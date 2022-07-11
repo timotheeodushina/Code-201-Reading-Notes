@@ -20,5 +20,5 @@ This message and all other data is sent across your internet connection using Tg
 
 6. A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence. Variables are important in JS to store information (such as name, username)
 
-Please visit the following link to access my live URL: <https://timothee2022.github.io/Code-201-Reading-Notes/>
+Please visit the following link to access my live URL: https://github.com/timothee2022
 
