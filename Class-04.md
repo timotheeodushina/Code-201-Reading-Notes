@@ -36,5 +36,8 @@ invoking functions is done by including the name of the function in the code som
 Whereas, the variables that are defined when the function is declared are known as a parameter.
 "Quoting from byjus.com"
   
+ Things I want to know more about:
+  I would like to pratice the codes I just read so I can get use to them.
+  
   For live access to my URL, please visit: https://timothee2022.github.io/Code-201-Reading-Notes/
 
