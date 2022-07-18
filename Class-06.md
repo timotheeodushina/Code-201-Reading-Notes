@@ -23,3 +23,5 @@ An object is a collection of properties, where each propery has a key (name) and
 let loud = obj.dog; (This is an example of dot notation. You can access properties on an object by specifying the name of the object, followed by a dot (period) followed by the property name)
 
 let loud = obj['dog']; (This is an example of Bracket notation. You can access properties on an object by specifying the name of the object followed by the property name in brackets)
+
+For live access to my page, please visit: https://timothee2022.github.io/Code-201-Reading-Notes/
