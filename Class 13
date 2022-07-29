@@ -5,3 +5,15 @@ Here is my reading notes for Class 13
 Local Storage and How To Use It On Websites
 
 * Storing information locally on a user’s computer is a powerful strategy for a developer who is creating something for the Web. In this article, we’ll look at how easy it is to store information on a computer to read later and explain what you can use that for.
+"Quoting from the reading material"
+
+* Be smart about data storage
+When thoughtfully deployed, local storage can boost site performance and help create more lightweight applications. However, local storage should never be used for sensitive information such as passwords or personal information. Doing so creates a security risk that is frankly avoidable if the site’s server is already secure.
+
+For information that requires encryption and security, there are other effective and expedient solutions out there such as server-side sessions. With cybersecurity being such a major concern, there’s no need to risk it. So, don’t.
+"Quoting from synk.io"
+
+* What is LocalStorage?
+LocalStorage is a key/value datastore that's available on a user's browser. Like cookies, LocalStorage can only store string data for its keys and values
+
+For live access to my page, please visit the following link: https://github.com/timothee2022
